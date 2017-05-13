@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test post please ignore!"
-date:   2017-05-13 18:00:00 +1100
+date:   2017-05-13 18:00:00 +0400
 categories: Test Post
 ---
 This is a test post. I have no idea what I'm doing but I'm doing it anyway, isn't that great :)
