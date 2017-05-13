@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "TEST POST 2!"
 date:   2017-05-13 18:20:00 -0500
-categories: jekyll update
+categories: test post
 ---
 Electric Boogaloo. :) Hopefully this works this time
 
