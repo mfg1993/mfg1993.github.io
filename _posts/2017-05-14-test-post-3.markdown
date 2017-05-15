@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Test Post 3: Image Edition"
+date:   2017-05-14 18:20:00 -0700
+categories: test post
+---
+
+http://i.imgur.com/ALATfP5.jpg
+
+This should be Jackie Chan
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
